@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/32"> 크래프톤 정글 8기 - 12일차 TIL </a> <br>
+<a href ="https://www.gowoong.com/31"> 크래프톤 정글 8기 - 11일차 TIL </a> <br>
 <a href ="https://www.gowoong.com/30"> 크래프톤 정글 8기 -10일차 TIL </a> <br>
 <a href ="https://www.gowoong.com/29"> 크래프톤 정글 8기 - 9일차 TIL </a> <br>
 <a href ="https://www.gowoong.com/28"> 크래프톤 정글 8기 - 8일차 TIL </a> <br>
 <a href ="https://www.gowoong.com/26"> [크래프톤 정글 8기] WEEK 0주차 회고 </a> <br>
-<a href ="https://www.gowoong.com/25"> 크래프톤 정글 8기 에세이 </a> <br>
-<a href ="https://www.gowoong.com/24"> AWS IoT Core Fleet Provisioning을 구현해보자 </a> <br>

@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/47"> 크래프톤 정글 8기 - 25일차 TIL (백준 9251 LCS) </a> <br>
+<a href ="https://www.gowoong.com/46"> 크래프톤 정글 8기 - 24일차 TIL (다이나믹 프로그래밍 입문) </a> <br>
 <a href ="https://www.gowoong.com/45"> 크래프톤 정글 8기 - 23일차 TIL (트라이 Trie) </a> <br>
 <a href ="https://www.gowoong.com/44"> 크래프톤 정글 8기 - 22일차 TIL (B-Tree) </a> <br>
 <a href ="https://www.gowoong.com/43"> 크래프톤 정글 8기 - 3주차 시작 전 회고 </a> <br>
 <a href ="https://www.gowoong.com/42"> 크래프톤 정글 8기 - 21일차 TIL (CSAPP 1장 마무리) </a> <br>
-<a href ="https://www.gowoong.com/41"> 크래프톤 정글 8기 - 20일차 TIL (플로이드-워셜) </a> <br>
-<a href ="https://www.gowoong.com/40"> 크래프톤 정글 8기 - 19일차 TIL (다익스트라 알고리즘) </a> <br>

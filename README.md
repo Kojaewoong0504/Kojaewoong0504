@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/52"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.4 장 정보 접근하기 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/51"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.4 장 정보 접근하기 Part.1 </a> <br>
+<a href ="https://www.gowoong.com/50"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.2장 프로그램의 인코딩 Part. 2 </a> <br>
+<a href ="https://www.gowoong.com/49"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.2장 프로그램의 인코딩 Part. 1 </a> <br>
+<a href ="https://www.gowoong.com/48"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.1장 역사적 배경 </a> <br>
 <a href ="https://www.gowoong.com/47"> 크래프톤 정글 8기 - 25일차 TIL (백준 9251 LCS) </a> <br>
-<a href ="https://www.gowoong.com/46"> 크래프톤 정글 8기 - 24일차 TIL (다이나믹 프로그래밍 입문) </a> <br>
-<a href ="https://www.gowoong.com/45"> 크래프톤 정글 8기 - 23일차 TIL (트라이 Trie) </a> <br>
-<a href ="https://www.gowoong.com/44"> 크래프톤 정글 8기 - 22일차 TIL (B-Tree) </a> <br>
-<a href ="https://www.gowoong.com/43"> 크래프톤 정글 8기 - 3주차 시작 전 회고 </a> <br>
-<a href ="https://www.gowoong.com/42"> 크래프톤 정글 8기 - 21일차 TIL (CSAPP 1장 마무리) </a> <br>

@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://www.gowoong.com/52"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.4 장 정보 접근하기 Part.2 </a> <br>
-<a href ="https://www.gowoong.com/51"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.4 장 정보 접근하기 Part.1 </a> <br>
-<a href ="https://www.gowoong.com/50"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.2장 프로그램의 인코딩 Part. 2 </a> <br>
-<a href ="https://www.gowoong.com/49"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.2장 프로그램의 인코딩 Part. 1 </a> <br>
-<a href ="https://www.gowoong.com/48"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.1장 역사적 배경 </a> <br>
-<a href ="https://www.gowoong.com/47"> 크래프톤 정글 8기 - 25일차 TIL (백준 9251 LCS) </a> <br>
+<a href ="https://www.gowoong.com/60"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.8 배열의 할당과 접근 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/59"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.8 배열의 할당과 접근 Part.1 </a> <br>
+<a href ="https://www.gowoong.com/58"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.7 프로시저 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/57"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.7 프로시저 Part.1 </a> <br>
+<a href ="https://www.gowoong.com/56"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.6 장 제어문 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/55"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.6 장 제어문 Part.1 </a> <br>

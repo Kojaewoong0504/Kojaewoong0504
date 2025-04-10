@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/65"> 크래프톤 정글 8기 - 30일차 TIL (백준 13869 Dating On-Line) </a> <br>
 <a href ="https://www.gowoong.com/64"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.11 부동소수점 코드 </a> <br>
 <a href ="https://www.gowoong.com/63"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.10 기계수준 프로그램에서 제어와 데이터의 결합 </a> <br>
 <a href ="https://www.gowoong.com/62"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.9 이기종 자료구조 </a> <br>
 <a href ="https://www.gowoong.com/61"> 크래프톤 정글 8기 - 4주차 시작 전 회고 </a> <br>
 <a href ="https://www.gowoong.com/60"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.8 배열의 할당과 접근 Part.2 </a> <br>
-<a href ="https://www.gowoong.com/59"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.8 배열의 할당과 접근 Part.1 </a> <br>

@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/68"> C 언어 테스트 기반 개발 환경 구축기 (CLion &amp; VSCode) Mac </a> <br>
 <a href ="https://www.gowoong.com/67"> 크래프톤 정글 8기 - 32일차 TIL (포인터) </a> <br>
 <a href ="https://www.gowoong.com/66"> 크래프톤 정글 8기 - TIL 31일차 (링크드 리스트 - C) </a> <br>
 <a href ="https://www.gowoong.com/65"> 크래프톤 정글 8기 - 30일차 TIL (백준 13869 Dating On-Line) </a> <br>
 <a href ="https://www.gowoong.com/64"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.11 부동소수점 코드 </a> <br>
 <a href ="https://www.gowoong.com/63"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.10 기계수준 프로그램에서 제어와 데이터의 결합 </a> <br>
-<a href ="https://www.gowoong.com/62"> 컴퓨터 시스템 : CSAPP 3장 정리 - 3.9 이기종 자료구조 </a> <br>

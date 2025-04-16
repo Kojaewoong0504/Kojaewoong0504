@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/74"> 링크드리스트(LinkedList) 구현 (C언어) : Part.2 - insert_end, free_lsit </a> <br>
+<a href ="https://www.gowoong.com/73"> 링크드리스트(LinkedList) 구현 (C언어) : Part.1 - 초기 환경 설정 </a> <br>
+<a href ="https://www.gowoong.com/72"> 보이어-무어 문자열 검색 알고리즘 </a> <br>
 <a href ="https://www.gowoong.com/71"> KMP (Knuth-Morris-Pratt) 문자열 검색 알고리즘 </a> <br>
 <a href ="https://www.gowoong.com/70"> 그래프톤 정글 8기 - 5주차 시작 전 회고 </a> <br>
 <a href ="https://www.gowoong.com/69"> 알고리즘 리마인더 구현 </a> <br>
-<a href ="https://www.gowoong.com/68"> C 언어 테스트 기반 개발 환경 구축기 (CLion &amp; VSCode) Mac </a> <br>
-<a href ="https://www.gowoong.com/67"> 크래프톤 정글 8기 - 32일차 TIL (포인터) </a> <br>
-<a href ="https://www.gowoong.com/66"> 크래프톤 정글 8기 - TIL 31일차 (링크드 리스트 - C) </a> <br>

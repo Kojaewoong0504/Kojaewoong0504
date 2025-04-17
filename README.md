@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://www.gowoong.com/74"> 링크드리스트(LinkedList) 구현 (C언어) : Part.2 - insert_end, free_lsit </a> <br>
-<a href ="https://www.gowoong.com/73"> 링크드리스트(LinkedList) 구현 (C언어) : Part.1 - 초기 환경 설정 </a> <br>
-<a href ="https://www.gowoong.com/72"> 보이어-무어 문자열 검색 알고리즘 </a> <br>
-<a href ="https://www.gowoong.com/71"> KMP (Knuth-Morris-Pratt) 문자열 검색 알고리즘 </a> <br>
-<a href ="https://www.gowoong.com/70"> 그래프톤 정글 8기 - 5주차 시작 전 회고 </a> <br>
-<a href ="https://www.gowoong.com/69"> 알고리즘 리마인더 구현 </a> <br>
+<a href ="https://www.gowoong.com/81"> 스택(Stack) 구현 (C언어) : Part.3 - get_size, reverse, copy 구현 </a> <br>
+<a href ="https://www.gowoong.com/80"> 스택(Stack) 구현 (C언어) : Part.2 - push, pop, free_stack, peek구현 </a> <br>
+<a href ="https://www.gowoong.com/79"> 스택(Stack) 구현 (C언어) : Part.1 - 초기 환경 설정 &amp; 구현할 함수 소개 </a> <br>
+<a href ="https://www.gowoong.com/78"> 링크드리스트(LinkedList) 구현 (C언어) : Part.6 - 수정 및 회고 </a> <br>
+<a href ="https://www.gowoong.com/77"> 링크드리스트(LinkedList) 구현 (C언어) : Part.5 - reverse_list, sort_list </a> <br>
+<a href ="https://www.gowoong.com/76"> 링크드리스트(LinkedList) 구현 (C언어) : Part.4 - delete_node, insert_at </a> <br>

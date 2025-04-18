@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://www.gowoong.com/81"> 스택(Stack) 구현 (C언어) : Part.3 - get_size, reverse, copy 구현 </a> <br>
-<a href ="https://www.gowoong.com/80"> 스택(Stack) 구현 (C언어) : Part.2 - push, pop, free_stack, peek구현 </a> <br>
-<a href ="https://www.gowoong.com/79"> 스택(Stack) 구현 (C언어) : Part.1 - 초기 환경 설정 &amp; 구현할 함수 소개 </a> <br>
-<a href ="https://www.gowoong.com/78"> 링크드리스트(LinkedList) 구현 (C언어) : Part.6 - 수정 및 회고 </a> <br>
-<a href ="https://www.gowoong.com/77"> 링크드리스트(LinkedList) 구현 (C언어) : Part.5 - reverse_list, sort_list </a> <br>
-<a href ="https://www.gowoong.com/76"> 링크드리스트(LinkedList) 구현 (C언어) : Part.4 - delete_node, insert_at </a> <br>
+<a href ="https://www.gowoong.com/87"> 컴퓨터 시스템 : CSAPP 7장 정리 - 7.13 ~ 7.15 </a> <br>
+<a href ="https://www.gowoong.com/86"> 컴퓨터 시스템 : CSAPP 7장 정리 - 7.11 ~ 7.12 </a> <br>
+<a href ="https://www.gowoong.com/85"> 컴퓨터 시스템 : CSAPP 7장 정리 - 7.8 ~ 7.10 </a> <br>
+<a href ="https://www.gowoong.com/84"> 컴퓨터 시스템 : CSAPP 7장 정리 - 7.7 재배치 </a> <br>
+<a href ="https://www.gowoong.com/83"> 컴퓨터 시스템 : CSAPP 7장 정리 - 7.6 심볼 결합 </a> <br>
+<a href ="https://www.gowoong.com/82"> 컴퓨터 시스템 : CSAPP 7장 정리 - 7.1 ~ 7.5 </a> <br>

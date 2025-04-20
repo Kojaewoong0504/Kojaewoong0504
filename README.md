@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/94"> 컴퓨터 시스템 : CSAPP 8장 정리 - 8.6 ~ 마지막 까지 </a> <br>
+<a href ="https://www.gowoong.com/93"> 컴퓨터 시스템 : CSAPP 8장 정리 - 8.5 Signals Part.2 8.5.7 까지 </a> <br>
+<a href ="https://www.gowoong.com/92"> 컴퓨터 시스템 : CSAPP 8장 정리 - 8.5 Signals Part.1 8.5.4 까지 </a> <br>
 <a href ="https://www.gowoong.com/91"> 컴퓨터 시스템 : CSAPP 8장 정리 - 8.4 Process Control </a> <br>
 <a href ="https://www.gowoong.com/90"> 컴퓨터 시스템 : CSAPP 8장 정리 - 8.3 System Call Error Handling </a> <br>
 <a href ="https://www.gowoong.com/89"> 컴퓨터 시스템 : CSAPP 8장 정리 - 8.2 Processes </a> <br>
-<a href ="https://www.gowoong.com/88"> 컴퓨터 시스템 : CSAPP 8장 정리 - 8.1 Exceptions </a> <br>
-<a href ="https://www.gowoong.com/87"> 컴퓨터 시스템 : CSAPP 7장 정리 - 7.13 ~ 7.15 </a> <br>
-<a href ="https://www.gowoong.com/86"> 컴퓨터 시스템 : CSAPP 7장 정리 - 7.11 ~ 7.12 </a> <br>

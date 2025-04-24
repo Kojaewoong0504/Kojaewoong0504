@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/110"> RB-Tree 구현 회고 - 실패하면 디버그 성공하면 리눅스 아닙니까! </a> <br>
+<a href ="https://www.gowoong.com/109"> 컴퓨터 시스템 : CSAPP 9장 - 서술형 문제를 통해 이해하기 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/108"> 컴퓨터 시스템 : CSAPP 9장 - 서술형 문제를 통해 이해하기 Part.1 </a> <br>
 <a href ="https://www.gowoong.com/107"> AVL 트리 개념 정리 </a> <br>
 <a href ="https://www.gowoong.com/106"> RB-Tree 구현하기 (C언어) - Part.6 삭제 구현 </a> <br>
 <a href ="https://www.gowoong.com/105"> RB-Tree 구현하기 (C언어) - Part.5 삭제 이론 설명 </a> <br>
-<a href ="https://www.gowoong.com/104"> RB-Tree 구현하기 (C언어) - Part.4 삽입 구현 </a> <br>
-<a href ="https://www.gowoong.com/103"> RB-Tree 구현하기 (C언어) - Part.3 삽입 이론 설명 </a> <br>
-<a href ="https://www.gowoong.com/102"> RB-Tree 구현하기 (C언어) - Part.2 최소, 최대, 출력 구현 </a> <br>

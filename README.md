@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/116"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.13 명시적 가용 리스트 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/115"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.13 명시적 가용 리스트 Part.1 </a> <br>
+<a href ="https://www.gowoong.com/114"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.12  종합 설계 : 간단한 할당기의 구현 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/113"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.12  종합 설계 : 간단한 할당기의 구현 Part.1 </a> <br>
 <a href ="https://www.gowoong.com/112"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9 동적 메모리 할당 9.9.6~9.9.11 </a> <br>
 <a href ="https://www.gowoong.com/111"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9 동적 메모리 할당 9.9.1~9.9.5 </a> <br>
-<a href ="https://www.gowoong.com/110"> RB-Tree 구현 회고 - 실패하면 디버그 성공하면 리눅스 아닙니까! </a> <br>
-<a href ="https://www.gowoong.com/109"> 컴퓨터 시스템 : CSAPP 9장 - 서술형 문제를 통해 이해하기 Part.2 </a> <br>
-<a href ="https://www.gowoong.com/108"> 컴퓨터 시스템 : CSAPP 9장 - 서술형 문제를 통해 이해하기 Part.1 </a> <br>
-<a href ="https://www.gowoong.com/107"> AVL 트리 개념 정리 </a> <br>

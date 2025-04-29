@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://www.gowoong.com/116"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.13 명시적 가용 리스트 Part.2 </a> <br>
-<a href ="https://www.gowoong.com/115"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.13 명시적 가용 리스트 Part.1 </a> <br>
-<a href ="https://www.gowoong.com/114"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.12  종합 설계 : 간단한 할당기의 구현 Part.2 </a> <br>
-<a href ="https://www.gowoong.com/113"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.12  종합 설계 : 간단한 할당기의 구현 Part.1 </a> <br>
-<a href ="https://www.gowoong.com/112"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9 동적 메모리 할당 9.9.6~9.9.11 </a> <br>
-<a href ="https://www.gowoong.com/111"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9 동적 메모리 할당 9.9.1~9.9.5 </a> <br>
+<a href ="https://www.gowoong.com/126"> [CS] 시스템 콜(System Call) </a> <br>
+<a href ="https://www.gowoong.com/125"> [CS] 이더넷(Ethernet) </a> <br>
+<a href ="https://www.gowoong.com/124"> [CS] DMA(Direct Memory Access) </a> <br>
+<a href ="https://www.gowoong.com/123"> [CS] Demand-Zero Memory </a> <br>
+<a href ="https://www.gowoong.com/122"> 컴퓨터 시스템 : CSAPP 6장 정리 - 종합: 프로그램 성능에 대한 캐시의 영향 </a> <br>
+<a href ="https://www.gowoong.com/121"> 컴퓨터 시스템 : CSAPP 6장 정리 - 6.5 캐시 친화적 코드 작성 </a> <br>

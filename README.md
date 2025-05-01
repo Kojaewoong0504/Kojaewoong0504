@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/129"> Malloc Lab 회고 </a> <br>
 <a href ="https://www.gowoong.com/128"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.10 가비지 컬렉터 기초 </a> <br>
 <a href ="https://www.gowoong.com/127"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.14 분리 가용 리스트 </a> <br>
 <a href ="https://www.gowoong.com/126"> [CS] 시스템 콜(System Call) </a> <br>
 <a href ="https://www.gowoong.com/125"> [CS] 이더넷(Ethernet) </a> <br>
 <a href ="https://www.gowoong.com/124"> [CS] DMA(Direct Memory Access) </a> <br>
-<a href ="https://www.gowoong.com/123"> [CS] Demand-Zero Memory </a> <br>

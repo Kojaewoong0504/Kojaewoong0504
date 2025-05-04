@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://www.gowoong.com/132"> 컴퓨터 시스템 : CSAPP 11장 정리 - 11.4 소켓 인터페이스 </a> <br>
-<a href ="https://www.gowoong.com/131"> 컴퓨터 시스템 : CSAPP 11장 정리 - 11.3 글로벌 IP 인터넷 </a> <br>
-<a href ="https://www.gowoong.com/130"> 컴퓨터 시스템 : CSAPP 11장 정리 - 11.1 ~ 11.2 </a> <br>
-<a href ="https://www.gowoong.com/129"> Malloc Lab 회고 </a> <br>
-<a href ="https://www.gowoong.com/128"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.10 가비지 컬렉터 기초 </a> <br>
-<a href ="https://www.gowoong.com/127"> 컴퓨터 시스템 : CSAPP 9장 정리 - 9.9.14 분리 가용 리스트 </a> <br>
+<a href ="https://www.gowoong.com/139"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 4탄 동기화 기법 : 읽기/쓰기 락 (Read-Write Lock) </a> <br>
+<a href ="https://www.gowoong.com/138"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 3탄 동기화 기법 조건 변수 (Condition Variable) </a> <br>
+<a href ="https://www.gowoong.com/137"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 2탄 동기화 기법 Mutex </a> <br>
+<a href ="https://www.gowoong.com/136"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 1탄 개념 이해 </a> <br>
+<a href ="https://www.gowoong.com/135"> 컴퓨터 시스템 : CSAPP 11장 정리 - 11.6 종합설계 :소형 웹 서버 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/134"> 컴퓨터 시스템 : CSAPP 11장 정리 - 11.6 종합설계 :소형 웹 서버 Part.1 </a> <br>

@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/142"> [WebProxy-Lab] proxy 서버 구현하기 Part.1 - 요구사항 확인 및 설계 </a> <br>
+<a href ="https://www.gowoong.com/141"> [Deep Dive] C언어의 str함수 </a> <br>
+<a href ="https://www.gowoong.com/140"> [CS] OSI 7계층 모델 </a> <br>
 <a href ="https://www.gowoong.com/139"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 4탄 동기화 기법 : 읽기/쓰기 락 (Read-Write Lock) </a> <br>
 <a href ="https://www.gowoong.com/138"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 3탄 동기화 기법 조건 변수 (Condition Variable) </a> <br>
 <a href ="https://www.gowoong.com/137"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 2탄 동기화 기법 Mutex </a> <br>
-<a href ="https://www.gowoong.com/136"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 1탄 개념 이해 </a> <br>
-<a href ="https://www.gowoong.com/135"> 컴퓨터 시스템 : CSAPP 11장 정리 - 11.6 종합설계 :소형 웹 서버 Part.2 </a> <br>
-<a href ="https://www.gowoong.com/134"> 컴퓨터 시스템 : CSAPP 11장 정리 - 11.6 종합설계 :소형 웹 서버 Part.1 </a> <br>

@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://www.gowoong.com/142"> [WebProxy-Lab] proxy 서버 구현하기 Part.1 - 요구사항 확인 및 설계 </a> <br>
-<a href ="https://www.gowoong.com/141"> [Deep Dive] C언어의 str함수 </a> <br>
-<a href ="https://www.gowoong.com/140"> [CS] OSI 7계층 모델 </a> <br>
-<a href ="https://www.gowoong.com/139"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 4탄 동기화 기법 : 읽기/쓰기 락 (Read-Write Lock) </a> <br>
-<a href ="https://www.gowoong.com/138"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 3탄 동기화 기법 조건 변수 (Condition Variable) </a> <br>
-<a href ="https://www.gowoong.com/137"> [Deep Dive] 쓰레드와 병렬 프로그래밍 - 2탄 동기화 기법 Mutex </a> <br>
+<a href ="https://www.gowoong.com/155"> [CS] TCP/IP 4계층 모델 </a> <br>
+<a href ="https://www.gowoong.com/154"> [CS] CGI / WebServer / MIME Type </a> <br>
+<a href ="https://www.gowoong.com/153"> [CS] Datagram Socket vs Stream Socket </a> <br>
+<a href ="https://www.gowoong.com/152"> [CS] 소켓(socket, bind, listen, accept, connect, close) </a> <br>
+<a href ="https://www.gowoong.com/151"> [CS] 클라이언트-서버 모델 (Client-Server Model) </a> <br>
+<a href ="https://www.gowoong.com/150"> [CS] 파일 디스크립터 (file descriptor) </a> <br>

@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/157"> [pintos] 우선순위 역전과 우선순위 기부 </a> <br>
 <a href ="https://www.gowoong.com/156"> WebProxy-Lab 회고 </a> <br>
 <a href ="https://www.gowoong.com/155"> [CS] TCP/IP 4계층 모델 </a> <br>
 <a href ="https://www.gowoong.com/154"> [CS] CGI / WebServer / MIME Type </a> <br>
 <a href ="https://www.gowoong.com/153"> [CS] Datagram Socket vs Stream Socket </a> <br>
 <a href ="https://www.gowoong.com/152"> [CS] 소켓(socket, bind, listen, accept, connect, close) </a> <br>
-<a href ="https://www.gowoong.com/151"> [CS] 클라이언트-서버 모델 (Client-Server Model) </a> <br>

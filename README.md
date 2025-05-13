@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/160"> [pintos] Week1: Priority Scheduling - Part.3 </a> <br>
+<a href ="https://www.gowoong.com/159"> [pintos] Week1: Priority Scheduling - Part.2 </a> <br>
 <a href ="https://www.gowoong.com/158"> [pintos] Week1: Priority Scheduling - Part.1 </a> <br>
 <a href ="https://www.gowoong.com/157"> [pintos] 우선순위 역전과 우선순위 기부 </a> <br>
 <a href ="https://www.gowoong.com/156"> WebProxy-Lab 회고 </a> <br>
 <a href ="https://www.gowoong.com/155"> [CS] TCP/IP 4계층 모델 </a> <br>
-<a href ="https://www.gowoong.com/154"> [CS] CGI / WebServer / MIME Type </a> <br>
-<a href ="https://www.gowoong.com/153"> [CS] Datagram Socket vs Stream Socket </a> <br>

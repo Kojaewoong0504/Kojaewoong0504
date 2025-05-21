@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/166"> [pintos] Week2~3: User Program Part.3 </a> <br>
 <a href ="https://www.gowoong.com/165"> [pintos] Week2~3: User Program Part.3 </a> <br>
 <a href ="https://www.gowoong.com/164"> [pintos] Week2~3: User Program Part.2 </a> <br>
 <a href ="https://www.gowoong.com/163"> [pintos] Week2~3: User Program Part.1 </a> <br>
 <a href ="https://www.gowoong.com/162"> [CS] CPU 스케줄링 기법 </a> <br>
 <a href ="https://www.gowoong.com/161"> [CS] 프로세스(Process)와 스레드(Thread) </a> <br>
-<a href ="https://www.gowoong.com/160"> [pintos] Week1: Priority Scheduling - Part.3 </a> <br>

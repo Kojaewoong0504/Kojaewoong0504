@@ -18,7 +18,7 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://www.gowoong.com/166"> [pintos] Week2~3: User Program Part.3 </a> <br>
+<a href ="https://www.gowoong.com/166"> [pintos] Week2~3: User Program Part.4 </a> <br>
 <a href ="https://www.gowoong.com/165"> [pintos] Week2~3: User Program Part.3 </a> <br>
 <a href ="https://www.gowoong.com/164"> [pintos] Week2~3: User Program Part.2 </a> <br>
 <a href ="https://www.gowoong.com/163"> [pintos] Week2~3: User Program Part.1 </a> <br>

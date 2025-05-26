@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
-<a href ="https://www.gowoong.com/166"> [pintos] Week2~3: User Program Part.4 </a> <br>
-<a href ="https://www.gowoong.com/165"> [pintos] Week2~3: User Program Part.3 </a> <br>
-<a href ="https://www.gowoong.com/164"> [pintos] Week2~3: User Program Part.2 </a> <br>
-<a href ="https://www.gowoong.com/163"> [pintos] Week2~3: User Program Part.1 </a> <br>
-<a href ="https://www.gowoong.com/162"> [CS] CPU 스케줄링 기법 </a> <br>
-<a href ="https://www.gowoong.com/161"> [CS] 프로세스(Process)와 스레드(Thread) </a> <br>
+<a href ="https://www.gowoong.com/169"> [pintos] Week2~3: User Program Part.7 - fork </a> <br>
+<a href ="https://www.gowoong.com/168"> [pintos] Week2~3: User Program Part.6 - lock 적용 </a> <br>
+<a href ="https://www.gowoong.com/167"> [pintos] Week2~3: User Program Part.5 - 파일 디스크립터 </a> <br>
+<a href ="https://www.gowoong.com/166"> [pintos] Week2~3: User Program Part.4 - halt, exit, create, remove </a> <br>
+<a href ="https://www.gowoong.com/165"> [pintos] Week2~3: User Program Part.3 - 인자 파싱 </a> <br>
+<a href ="https://www.gowoong.com/164"> [pintos] Week2~3: User Program Part.2 이론 - ELF 로딩 </a> <br>

@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/171"> [pintos] Week2~3: User Program 외전 - Linked List를 이용한 FD관리 </a> <br>
+<a href ="https://www.gowoong.com/170"> [pintos] Week2~3: User Program Part.8 - exec, wait </a> <br>
 <a href ="https://www.gowoong.com/169"> [pintos] Week2~3: User Program Part.7 - fork </a> <br>
 <a href ="https://www.gowoong.com/168"> [pintos] Week2~3: User Program Part.6 - lock 적용 </a> <br>
 <a href ="https://www.gowoong.com/167"> [pintos] Week2~3: User Program Part.5 - 파일 디스크립터 </a> <br>
 <a href ="https://www.gowoong.com/166"> [pintos] Week2~3: User Program Part.4 - halt, exit, create, remove </a> <br>
-<a href ="https://www.gowoong.com/165"> [pintos] Week2~3: User Program Part.3 - 인자 파싱 </a> <br>
-<a href ="https://www.gowoong.com/164"> [pintos] Week2~3: User Program Part.2 이론 - ELF 로딩 </a> <br>

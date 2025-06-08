@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/178"> [pintos] Week4~5: Virtual Memory - Part.7 페이지 교체 및 구현 완료를 위한 수정 </a> <br>
+<a href ="https://www.gowoong.com/177"> [pintos] Week4~5: Virtual Memory - Part.6 Swap In/Out </a> <br>
 <a href ="https://www.gowoong.com/176"> [pintos] Week4~5: Virtual Memory - Part.5 Memory Mapped Files </a> <br>
 <a href ="https://www.gowoong.com/175"> [pintos] Week4~5: Virtual Memory - Part.4 Stack Growth </a> <br>
 <a href ="https://www.gowoong.com/174"> [pintos] Week4~5: Virtual Memory - Part.3 Anonymous Page </a> <br>
 <a href ="https://www.gowoong.com/173"> [pintos] Week4~5: Virtual Memory - Part.2 Memory Management </a> <br>
-<a href ="https://www.gowoong.com/172"> [pintos] Week4~5: Virtual Memory - Part.1 가상 메모리란? </a> <br>
-<a href ="https://www.gowoong.com/171"> [pintos] Week2~3: User Program 외전 - Linked List를 이용한 FD관리 </a> <br>

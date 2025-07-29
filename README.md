@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/187"> [Flutter] BLoC(Bussiness Login Component)란? </a> <br>
 <a href ="https://www.gowoong.com/186"> [Flutter] 입문 - 시작과 기초 개념 잡기 </a> <br>
 <a href ="https://www.gowoong.com/185"> [Flutter] 입문 - 화면 전환(Navigation) </a> <br>
 <a href ="https://www.gowoong.com/184"> [Flutter] 입문 - 기본 위젯 &amp; Stateful vs Stateless 이해 </a> <br>
 <a href ="https://www.gowoong.com/183"> [Flutter] Form 알아보기 </a> <br>
 <a href ="https://www.gowoong.com/182"> [크래프톤 정글 8기] 나만무 4 주차 회고 </a> <br>
-<a href ="https://www.gowoong.com/181"> [크래프톤 정글 8기] 나만무 2~3 주차 회고 </a> <br>

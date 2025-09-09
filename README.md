@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/193"> [OSTEP] 스터디 2주차 - 가상화의 세계 part.3 </a> <br>
+<a href ="https://www.gowoong.com/192"> [AI &amp; LLM] Amazon Q Developer 헤커톤 회고 </a> <br>
 <a href ="https://www.gowoong.com/191"> [OSTEP] 스터디 2주차 - 가상화의 세계 part.2 </a> <br>
 <a href ="https://www.gowoong.com/190"> [OSTEP] 스터디 2주차 - 가상화의 세계 part.1 </a> <br>
 <a href ="https://www.gowoong.com/189"> [OSTEP] 스터디 1주차 - 아주 쉬운 세가지 이야기 </a> <br>
 <a href ="https://www.gowoong.com/188"> [크래프톤 정글 8기] 수료 및 마지막 회고 </a> <br>
-<a href ="https://www.gowoong.com/187"> [Flutter] BLoC(Bussiness Login Component)란? </a> <br>
-<a href ="https://www.gowoong.com/186"> [Flutter] 입문 - 시작과 기초 개념 잡기 </a> <br>

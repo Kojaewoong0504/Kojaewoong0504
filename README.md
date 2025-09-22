@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/196"> [OSTEP] 스터디 4주차 - 스케줄링 2 : Part.1 - MLFQ </a> <br>
 <a href ="https://www.gowoong.com/195"> [OSTEP] 스터디 3주차 - 스케줄링 1 </a> <br>
 <a href ="https://www.gowoong.com/194"> [OSTEP] 스터디 2주차 - 가상화의 세계 - 숙제 </a> <br>
 <a href ="https://www.gowoong.com/193"> [OSTEP] 스터디 2주차 - 가상화의 세계 part.3 </a> <br>
 <a href ="https://www.gowoong.com/192"> [AI &amp; LLM] Amazon Q Developer 헤커톤 회고 </a> <br>
 <a href ="https://www.gowoong.com/191"> [OSTEP] 스터디 2주차 - 가상화의 세계 part.2 </a> <br>
-<a href ="https://www.gowoong.com/190"> [OSTEP] 스터디 2주차 - 가상화의 세계 part.1 </a> <br>

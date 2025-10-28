@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/203"> [OSTEP] 스터디 9주차 - 메모리 가상화 4 </a> <br>
 <a href ="https://www.gowoong.com/202"> [OSTEP] 스터디 7주차 - 메모리 가상화 3 - 숙제 </a> <br>
 <a href ="https://www.gowoong.com/201"> [OSTEP] 스터디 7주차 - 메모리 가상화  3 - 빈 공간 관리 </a> <br>
 <a href ="https://www.gowoong.com/200"> [OSTEP] 스터디 6주차 - 메모리 가상화 2 정리 및 숙제 </a> <br>
 <a href ="https://www.gowoong.com/199"> [OSTEP] 스터디 6주차 - 메모리 가상화 2 Part.1 </a> <br>
 <a href ="https://www.gowoong.com/198"> [OSTEP] 스터디 5주차 - 메모리 가상화 1 </a> <br>
-<a href ="https://www.gowoong.com/197"> [OSTEP] 스터디 4주차 - 스케줄링 2 : Part.2 - 비례 배분 </a> <br>

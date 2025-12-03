@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/210"> [OSTEP] 스터디 14주차 - 영속성 1 Part.2 </a> <br>
+<a href ="https://www.gowoong.com/209"> [OSTEP] 스터디 14주차 - 영속성 1 Part.1 </a> <br>
 <a href ="https://www.gowoong.com/208"> [OSTEP] 스터디 13주차 - 병행성 3 Part.2 </a> <br>
 <a href ="https://www.gowoong.com/207"> [OSTEP] 스터디 12주차 - 병행성 3 Part.1 </a> <br>
 <a href ="https://www.gowoong.com/206"> [OSTEP] 스터디 11주차 - 병행성 2 Part.2 </a> <br>
 <a href ="https://www.gowoong.com/205"> [OSTEP] 스터디 11주차 - 병행성 2 Part.1 </a> <br>
-<a href ="https://www.gowoong.com/204"> [OSTEP] 스터디 10주차 - 병행성 1 </a> <br>
-<a href ="https://www.gowoong.com/203"> [OSTEP] 스터디 9주차 - 메모리 가상화 4 </a> <br>

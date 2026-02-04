@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts   
 
+<a href ="https://www.gowoong.com/232"> [OSTEP] 스터디 22주차 Security Access </a> <br>
 <a href ="https://www.gowoong.com/231"> [OSTEP] 스터디 21주차 Security </a> <br>
 <a href ="https://www.gowoong.com/230"> [사이드 프로젝트] 디지털 굿즈 플랫폼 개발기 #7 - Spring Security + JWT + Redis로 구축하는 강력한 인증 시스템 (2편: 하이브리드 로그인 구현) </a> <br>
 <a href ="https://www.gowoong.com/229"> [사이드 프로젝트] 디지털 굿즈 플랫폼 개발기 #6 - Spring Security + JWT + Redis로 구축하는 강력한 인증 시스템 (1편: 설계와 설정) </a> <br>
 <a href ="https://www.gowoong.com/228"> [사이드 프로젝트] 디지털 굿즈 플랫폼 개발기 #5 - Controller 구현과 입력값 유효성 검증 </a> <br>
 <a href ="https://www.gowoong.com/227"> [사이드 프로젝트] 디지털 굿즈 플랫폼 개발기 #4 - Service 계층 구현과 Mockito 단위 테스트 </a> <br>
-<a href ="https://www.gowoong.com/226"> [사이드 프로젝트] 디지털 굿즈 플랫폼 개발기 #3 - Repository 계층 구현과 테스트 코드 작성 </a> <br>
